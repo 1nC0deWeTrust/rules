@@ -1,2 +1,3 @@
 payload:
   - DOMAIN-KEYWORD,dcard,FATEST-TW
+  - DOMAIN,safebrowsing.urlsec.qq.com,REJECT
