@@ -1,4 +1,2 @@
 payload:
-  - DOMAIN-SUFFIX,openai.com
-  - DOMAIN-SUFFIX,ai.com
-  - DOMAIN-SUFFIX,challenges.cloudflare.com
+  - DOMAIN-KEYWORD,Customize the rules that need to use the us node
