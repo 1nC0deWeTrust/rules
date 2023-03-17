@@ -1,4 +1,3 @@
 payload:
   - DOMAIN-SUFFIX,linkedin.com
   - DOMAIN-SUFFIX,licdn.com
-  - DOMAIN,api.weibo.cn/2/push
