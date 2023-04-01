@@ -1,1 +1,4 @@
+payload:
+  - DOMAIN-SUFFIX,safebrowsing.urlsec.qq.com,REJECT
+  - DOMAIN-SUFFIX,td.telegram.org,REJECT
   - PROCESS-NAME,Alook*,REJECT
