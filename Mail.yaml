@@ -1,1 +1,2 @@
-
+payload:
+  - 'apple.*.mail.yahoo.com'
