@@ -7,5 +7,6 @@
 payload:
   - '.microsoft.com'
   - '*.microsoft.com'
+  - '*.*.microsoft.com'
   - '*microsoft.com'
   - '+.microsoft.com'
