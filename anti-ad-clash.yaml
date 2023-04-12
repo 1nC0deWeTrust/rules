@@ -6,7 +6,7 @@
 #RULE-SET,AntiAd,REJECT
 payload:
   - '.microsoft.com'
-  - '*.microsoft.com'
   - '*.*.microsoft.com'
+  - '*.microsoft.com'
   - '*microsoft.com'
   - '+.microsoft.com'
