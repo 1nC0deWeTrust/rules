@@ -1,1 +1,1 @@
-URL-REGEX,api.weibo.cn\/\d\/comments\/create
+URL-REGEX,.*api\.weibo\.cn\/\d\/comments\/create
