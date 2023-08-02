@@ -1,2 +1,3 @@
 URL-REGEX,^.*api\.weibo\.cn\/\d\/comments\/create\?
 URL-REGEX,^.*api\.weibo\.cn\/\d\/statuses\/send\?
+URL-REGEX,^.*mp\.weixin\.qq\.com\/mp\/appmsg_comment\?
