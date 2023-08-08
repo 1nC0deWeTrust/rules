@@ -1,4 +1,4 @@
 payload:
   - DOMAIN-SUFFIX,testin.cn,direct
   - DOMAIN-SUFFIX,jiagu.360.cn,direct
-  - DOMAIN-SUFFIX,amazonaws.com,direct
+  - DOMAIN-KEYWORD,aws,direct
