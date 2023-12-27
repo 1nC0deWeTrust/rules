@@ -2,3 +2,4 @@ payload:
   - DOMAIN-SUFFIX,testin.cn,direct
   - DOMAIN-SUFFIX,jiagu.360.cn,direct
   - DOMAIN-SUFFIX,developer.umeng.com,direct
+  - DOMAIN-SUFFIX,devs.umeng.com,direct
