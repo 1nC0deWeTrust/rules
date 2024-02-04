@@ -1,2 +1,2 @@
-DOMAIN-SUFFIX,safebrowsing.urlsec.qq.com,REJECT
-DOMAIN-SUFFIX,td.telegram.org,REJECT
+DOMAIN-SUFFIX,safebrowsing.urlsec.qq.com
+DOMAIN-SUFFIX,td.telegram.org
