@@ -1,1 +1,7 @@
-DOMAIN-KEYWORD,Customize the rules that need to use the direct node
+DOMAIN-SUFFIX,testin.cn
+DOMAIN-SUFFIX,jiagu.360.cn
+DOMAIN-SUFFIX,compute.amazonaws.com
+DOMAIN-SUFFIX,open.com.cn
+
+DOMAIN-SUFFIX,imap.qq.com
+DOMAIN-SUFFIX,smtp.qq.com

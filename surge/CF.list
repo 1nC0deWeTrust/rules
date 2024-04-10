@@ -1,0 +1,8 @@
+DOMAIN-SUFFIX,imap.gmail.com
+DOMAIN-SUFFIX,smtp.gmail.com
+
+DEST-PORT,993
+DEST-PORT,587
+DEST-PORT,465
+
+DOMAIN-SUFFIX,challenges.cloudflare.com
