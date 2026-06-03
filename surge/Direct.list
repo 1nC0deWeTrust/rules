@@ -5,3 +5,6 @@ DOMAIN-SUFFIX,open.com.cn
 
 DOMAIN-SUFFIX,imap.qq.com
 DOMAIN-SUFFIX,smtp.qq.com
+
+DOMAIN-SUFFIX,imap.163.com
+DOMAIN-SUFFIX,smtp.163.com
